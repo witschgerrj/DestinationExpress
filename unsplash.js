@@ -1,6 +1,7 @@
 var unsplash_api = 'https://api.unsplash.com/search/photos';
 var unsplash_query = '&query=';
-var unsplash_access_key = '?client_id=30c94d30e4b4623122cad5c022e9e6d63fbb0835de59046f47087e354bf42a27'
+//removed api key
+var unsplash_access_key = '?client_id='
 var unsplash_per_page = '&per_page=30'
 
 var unsplash_apicall;
