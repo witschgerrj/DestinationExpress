@@ -2,7 +2,8 @@
 var proxy = 'https://cors-anywhere.herokuapp.com/'
 var weather_api = 'api.openweathermap.org/data/2.5/';
 var weather_find = 'find?';
-var weather_apikey = '&appid=c032c1ba2b577366fc471735aa34fc1a';
+//removed api key
+var weather_apikey = '&appid=';
 var city;
 var country;
 var weather_units = '&units=imperial';
